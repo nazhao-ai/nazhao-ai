@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nazhao-ai, an implant dentist in harvard school of dental medicine
+- 👋 Hi, I’m Na Zhao, an implant dentist in harvard school of dental medicine
 - 👀 I’m interested in Dentistry AI
 - 🌱 I’m currently learning CNN/RNN/Transformers
 - 💞️ I’m looking to collaborate on Dentistry AI
